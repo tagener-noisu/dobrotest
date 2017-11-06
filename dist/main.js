@@ -79,7 +79,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\n//import React, {Component} from \"react\"\n//import ReactDOM from \"react-dom\"\n\n\n(function () {\n\tconsole.log(\"it works\");\n\t//ReactDOM.render(<h1>Hello, world!</h1>, document.getElementById(\"root\"))\n})();//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvaW5kZXguanMuanMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vc3JjL2luZGV4LmpzPzEyZDUiXSwic291cmNlc0NvbnRlbnQiOlsiLy9pbXBvcnQgUmVhY3QsIHtDb21wb25lbnR9IGZyb20gXCJyZWFjdFwiXG4vL2ltcG9ydCBSZWFjdERPTSBmcm9tIFwicmVhY3QtZG9tXCJcblxuXG4oKCkgPT4ge1xuXHRjb25zb2xlLmxvZyhcIml0IHdvcmtzXCIpO1xuXHQvL1JlYWN0RE9NLnJlbmRlcig8aDE+SGVsbG8sIHdvcmxkITwvaDE+LCBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChcInJvb3RcIikpXG59KSgpO1xuIl0sIm1hcHBpbmdzIjoiOztBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EiLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/index.js\n");
+eval("\n\n(function () {\n\tconsole.log(\"it works\");\n})();//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvaW5kZXguanMuanMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vc3JjL2luZGV4LmpzPzEyZDUiXSwic291cmNlc0NvbnRlbnQiOlsiKCgpID0+IHtcblx0Y29uc29sZS5sb2coXCJpdCB3b3Jrc1wiKTtcbn0pKCk7XG4iXSwibWFwcGluZ3MiOiI7O0FBQUE7QUFDQTtBQUNBIiwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./src/index.js\n");
 
 /***/ })
 
